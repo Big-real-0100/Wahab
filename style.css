@@ -1,0 +1,18 @@
+.title{
+    margin: 0;
+    margin: 0;
+}
+.title h1{
+    border: 1px solid black;
+    margin: 20px;
+    padding: 10px;
+    color: purple;
+    width: 300px;
+    border-radius: 10px;
+}
+.title h1 + p{
+    color: blue;
+    width: 300px;
+    margin: 20px;
+
+}
